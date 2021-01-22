@@ -1,5 +1,5 @@
 kernel-version=5.9.11
-lsm-version=0.7.1
+lsm-version=0.7.1-jiffies
 lib-version=0.5.3
 config-version=0.5.1
 cli-version=0.2.1
